@@ -1,15 +1,5 @@
 # pickcells
 
-Com este teste temos como objetivo verificar suas habilidades de entendimento, interpretação e resolução de problemas algorítmicos simples.
+Teste para seleção de Dev Jr.
 
-A descrição detalhada do problema está no arquivo pickcells_test.pdf (segundo commit do projeto)
-
-Pra facilitar a avaliação do seu teste, pedimos que você clone este repositório e utilize-o para desenvolver a sua solução:
-
-    git clone https://github.com/pickcells/pickcells.git
-
-Ah! e não esqueça de criar um teste simples pra vermos a sua solução funcionando ;)
-
-Ao terminar, commite suas alterações e nos envie um e-mail com o link do seu repositório!
-
-Estamos torcendo por você!
+O arquivo a ser rodado é o main.py. Ele seleciona dentre os cursos aquele com maior número de créditos, realizando o desempate (se necessário) por tipo de curso (cursos de doutorado prevalecem sobre cursos de mestrado e etc). Os demais arquivos contém as informações de cada curso, de acordo com a tabela fornecida, e contabilizam os créditos obrigatórios de cada um.
